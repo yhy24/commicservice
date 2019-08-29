@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com-consumerfeigin/com-consumerfeigin.iml" filepath="$PROJECT_DIR$/com-consumerfeigin/com-consumerfeigin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-micconsumer/com-micconsumer.iml" filepath="$PROJECT_DIR$/com-micconsumer/com-micconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-miceruka/com-miceruka.iml" filepath="$PROJECT_DIR$/com-miceruka/com-miceruka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-miceureka8087/com-miceureka8087.iml" filepath="$PROJECT_DIR$/com-miceureka8087/com-miceureka8087.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-miceureka8088/com-miceureka8088.iml" filepath="$PROJECT_DIR$/com-miceureka8088/com-miceureka8088.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-micprovider8089/com-micprovider8089.iml" filepath="$PROJECT_DIR$/com-micprovider8089/com-micprovider8089.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-micprovider8090/com-micprovider8090.iml" filepath="$PROJECT_DIR$/com-micprovider8090/com-micprovider8090.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-micproviders8091/com-micproviders8091.iml" filepath="$PROJECT_DIR$/com-micproviders8091/com-micproviders8091.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commicservice.iml" filepath="$PROJECT_DIR$/commicservice.iml" />
+    </modules>
+  </component>
+</project>

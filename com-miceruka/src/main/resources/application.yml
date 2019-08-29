@@ -1,0 +1,11 @@
+
+server:
+  port: 8086
+eureka:
+  instance:
+    hostname: com-miceruka8086
+  client:
+    register-with-eureka: false #注册服务的时候不注册自己
+    fetch-registry: false  #不从erreka上获取注册信息
+    service-url:
+      defaultZone: http://com-miceruka8087:8087/eureka/,http://com-miceruka8088:8088/eureka/

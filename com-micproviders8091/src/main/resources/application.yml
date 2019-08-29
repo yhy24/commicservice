@@ -1,0 +1,12 @@
+
+server:
+  port: 8091
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    service-url:
+      defaultZone: http://com-miceruka8086:8086/eureka/,http://com-miceruka8088:8088/eureka/,http://com-miceruka8087:8087/eureka/
+spring:
+  application:
+    name: com-micprovider

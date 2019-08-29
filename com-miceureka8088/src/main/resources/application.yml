@@ -1,0 +1,11 @@
+
+server:
+  port: 8088
+eureka:
+  instance:
+    hostname: com-miceruka8088
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    service-url:
+      defaultZone: http://com-miceruka8087:8087/eureka/,http://com-miceruka8086:8086/eureka/

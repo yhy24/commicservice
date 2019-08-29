@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="com-consumerfeigin" />
+        <module name="com-micconsumer" />
+        <module name="com-miceruka" />
+        <module name="com-miceureka8087" />
+        <module name="com-miceureka8088" />
+        <module name="com-micprovider8089" />
+        <module name="com-micprovider8090" />
+        <module name="com-micproviders8091" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com-consumerfeigin" target="1.8" />
+      <module name="com-micconsumer" target="1.8" />
+      <module name="com-miceruka" target="1.8" />
+      <module name="com-miceureka8087" target="1.8" />
+      <module name="com-miceureka8088" target="1.8" />
+      <module name="com-micprovider" target="1.8" />
+      <module name="com-micprovider8086" target="1.8" />
+      <module name="com-micprovider8089" target="1.8" />
+      <module name="com-micprovider8090" target="1.8" />
+      <module name="com-micproviders8091" target="1.8" />
+      <module name="com-micsoncumer" target="1.8" />
+      <module name="com-micutils" target="1.8" />
+      <module name="commicservice" target="1.8" />
+      <module name="commicutils" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
